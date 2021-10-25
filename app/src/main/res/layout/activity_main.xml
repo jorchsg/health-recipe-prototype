@@ -19,7 +19,21 @@
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintLeft_toLeftOf="parent"
             android:src="@drawable/ic_notifications"
-            android:background="@android:color/holo_blue_dark"/>
+            android:background="@android:color/holo_blue_dark"
+            />
+
+        <TextView
+            android:id="@+id/text_view_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Notifications"
+            android:textSize="8sp"
+            android:textStyle="bold"
+            android:typeface="sans"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="63dp" />
 
         <ImageButton
             android:id="@+id/btnTimes"
@@ -29,6 +43,19 @@
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintRight_toRightOf="parent" />
 
+        <TextView
+            android:id="@+id/registers"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Registers"
+            android:textSize="8sp"
+            android:textStyle="bold"
+            android:typeface="sans"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="130dp"
+            tools:layout_editor_absoluteY="63dp" />
+
         <ImageButton
             android:id="@+id/btnWeather"
             style="@style/button"
@@ -37,6 +64,19 @@
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintLeft_toLeftOf="parent" />
 
+        <TextView
+            android:id="@+id/calories"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Calories"
+            android:textSize="8sp"
+            android:textStyle="bold"
+            android:typeface="sans"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="27dp"
+            tools:layout_editor_absoluteY="169dp" />
+
         <ImageButton
             android:id="@+id/btnNotification"
             style="@style/button"
@@ -44,6 +84,21 @@
             android:src="@drawable/ic_user"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintRight_toRightOf="parent" />
+
+        <TextView
+            android:id="@+id/my_profile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="My Profile"
+            android:textSize="8sp"
+            android:textStyle="bold"
+            android:typeface="sans"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="126dp"
+            tools:layout_editor_absoluteY="169dp" />
+
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 </androidx.wear.widget.BoxInsetLayout>
