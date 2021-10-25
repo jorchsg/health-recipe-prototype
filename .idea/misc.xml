@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Dell/Documents/UTT/9-cuatrimestre/desarrollo/health-recipe-prototype/app/src/main/res/drawable/gradient.xml" value="2.432142857142857" />
+        <entry key="..\:/Users/Dell/Documents/UTT/9-cuatrimestre/desarrollo/health-recipe-prototype/app/src/main/res/layout/activity_main.xml" value="1.074013157894737" />
+        <entry key="..\:/Users/Dell/Documents/UTT/9-cuatrimestre/desarrollo/health-recipe-prototype/app/src/main/res/layout/todays_calories.xml" value="0.75" />
         <entry key="..\:/Users/Oscar/AndroidStudioProjects/HealthRecipePrototype/app/src/main/res/drawable/ic_calories.xml" value="1.8821428571428571" />
         <entry key="..\:/Users/Oscar/AndroidStudioProjects/HealthRecipePrototype/app/src/main/res/drawable/ic_food.xml" value="1.8821428571428571" />
         <entry key="..\:/Users/Oscar/AndroidStudioProjects/HealthRecipePrototype/app/src/main/res/drawable/ic_notifications.xml" value="1.8821428571428571" />

@@ -6,4 +6,19 @@
         <item name="layout_constraintWidth_percent">.45</item>
         <item name="layout_constraintHeight_percent">.45</item>
     </style>
+    <style name="buttonIcons">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="layout_constraintWidth_percent">.15</item>
+        <item name="layout_constraintHeight_percent">.15</item>
+    </style>
+    <style name="textTodaysCalories">
+        <item name="android:textColor">#003049</item>
+    </style>
+    <style name="textLegend">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:background">#EAE2B7</item>
+        <item name="android:textColor">#003049</item>
+    </style>
+
 </resources>
